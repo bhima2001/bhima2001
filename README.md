@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shankar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhima shankar devarkaonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhima shankar devarkaonda" height="30" width="40" /></a>
+<a href="https://twitter.com/shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhima2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhima shankar devarkaonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhima-shankar-devarakonda-26963a1ba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhima2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhima2001" height="30" width="40" /></a>
 </p>
 
