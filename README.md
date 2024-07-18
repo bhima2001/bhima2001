@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhima2001" alt="bhima2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shankar" target="blank"><img src="https://img.shields.io/twitter/follow/shankar?logo=twitter&style=for-the-badge" alt="shankar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhima2001" target="blank"><img src="https://img.shields.io/twitter/follow/shankar?logo=twitter&style=for-the-badge" alt="shankar" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, ruby, p2p applications**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhima2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhima shankar devarkaonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhima-shankar-devarakonda-26963a1ba" height="30" width="40" /></a>
+<a href="https://twitter.com/bhima2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhima2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhima-shankar-devarakonda-26963a1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhima Shankar Devarakonda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhima2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhima2001" height="30" width="40" /></a>
 </p>
 
